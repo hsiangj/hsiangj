@@ -2,6 +2,7 @@
 ---
 <a href='https://www.linkedin.com/in/jessicahsiang/'
 <img src ='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge'/>
+</a>
 
 <!--
 **hsiangj/hsiangj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
