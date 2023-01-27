@@ -2,6 +2,7 @@
 <p>
 Software engineering student. Ex-accounting/hospitality/non-profit
 </p>
+---
 
 ---
 <a href='https://www.linkedin.com/in/jessicahsiang/'>
