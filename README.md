@@ -1,4 +1,5 @@
-### Hi, I'm Jessica! 👋
+##### Hi there 👋
+I'm a software engineering student at a full stack intensive bootcamp called Springboard. 
 ---
 <a href='https://www.linkedin.com/in/jessicahsiang/'>
   <img src ='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge'/>
