@@ -1,8 +1,8 @@
-##### Hi there 👋
+#### Hi there 👋
 <p>
 I'm a software engineering student at a full stack intensive bootcamp called Springboard. 
 </p>
----
+-------
 <a href='https://www.linkedin.com/in/jessicahsiang/'>
     <img height="32" align="left" alt="LinkedIn" src="icons/linkedin.png" />
 </a>
