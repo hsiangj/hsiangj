@@ -2,8 +2,8 @@
 <p>
 Software engineering student. Ex-accounting/hospitality/non-profit
 </p>
-<br>
--------
+
+---
 <a href='https://www.linkedin.com/in/jessicahsiang/'>
     <img height="32" align="left" alt="LinkedIn" src="icons/linkedin.png" />
 </a>
