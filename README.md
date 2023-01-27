@@ -1,6 +1,6 @@
 #### Hi there 👋
 <p>
-I'm a software engineering student at a full stack intensive bootcamp called Springboard. 
+I'm a software engineering student
 </p>
 -------
 <a href='https://www.linkedin.com/in/jessicahsiang/'>
