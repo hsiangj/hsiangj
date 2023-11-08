@@ -10,7 +10,7 @@ Previously accountant in hospitality and non-profit.
 
 #### Tech tools
 ###### Frontend
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/> </a>
 ###### Backend
 
 ###### Database and tools
