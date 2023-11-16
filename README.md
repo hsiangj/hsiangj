@@ -21,7 +21,7 @@ Previously accountant in hospitality and non-profit.
 ---
 #### Contact  
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jessicahsiang/)
 
 <!--
 **hsiangj/hsiangj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
