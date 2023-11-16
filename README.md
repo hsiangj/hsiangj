@@ -1,26 +1,27 @@
 #### Hi there 👋
 <p>
-I'm a software engineer. 
+I'm a fullstack software engineer. 
     
 Previously accountant in hospitality and non-profit.
 </p>
 
-- 👩🏻‍💻 I’m currently working on: adding new features to a fullstack project + practicing data structures & algorithm
+- 👩🏻‍💻 I’m currently working on: adding new features using MUI to a fullstack project + practicing data structures & algorithm
 - 🌱 I’m currently learning: the docs of a volunteer project 
 
 #### Tech tools
 ###### Frontend
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/> </a>
+[![Frontend](https://skillicons.dev/icons?i=js,react,html,css,bootstrap,jquery,materialui)](https://skillicons.dev)
+
 ###### Backend
+[![Backend](https://skillicons.dev/icons?i=python,flask,nodejs,express)](https://skillicons.dev)
 
 ###### Database and tools
+[![Database and tools](https://skillicons.dev/icons?i=postgres,mysql,jest,git,github,heroku)](https://skillicons.dev)
 
 ---
 #### Contact  
 
-<a href='https://www.linkedin.com/in/jessicahsiang/'>
-    <img height="32" align="left" alt="LinkedIn" src="icons/linkedin.png" />
-</a>
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 <!--
 **hsiangj/hsiangj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
