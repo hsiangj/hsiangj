@@ -7,7 +7,7 @@ Previously accountant in hospitality and non-profit.
 
 - 👩🏻‍💻 I’m currently working on: adding new features using MUI to a fullstack project + practicing data structures & algorithm
 - 🌱 I’m currently learning: the docs of a volunteer project
-- 📚 I"m currently reading: 'Mindset' by Carol Dweck
+- 📚 I'm currently reading: 'Mindset' by Carol Dweck
 
 #### Tech tools
 ###### Frontend
