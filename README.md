@@ -5,7 +5,7 @@ I'm a fullstack software engineer.
 Previously accountant in hospitality and non-profit.
 </p>
 
-- 👩🏻‍💻 I’m currently working on: practicing data structures & algorithm
+- 👩🏻‍💻 I’m currently working on: a 'smart' shopping list with The Collab Lab cohort using React and Firebase in an Agile environemnt
 - 🌱 I’m currently learning: MongoDB 
 - 📚 I'm currently reading: 'Eloquent JavaScript' & 'Lessons in Chemistry'
 
