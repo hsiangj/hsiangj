@@ -5,7 +5,7 @@ I'm a fullstack software engineer.
 Previously accountant in hospitality and non-profit.
 </p>
 
-- 👩🏻‍💻 I’m currently working on: a 'smart' shopping list with The Collab Lab cohort using React and Firebase in an Agile environemnt
+- 👩🏻‍💻 I’m currently working on: a case scenario tool with Gemini API.  
 - 📚 I'm currently reading: 'Eloquent JavaScript' & 'Give & Take'
 
 #### Tech tools
