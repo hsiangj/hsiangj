@@ -5,8 +5,8 @@ I'm a fullstack software engineer.
 Previously accountant in hospitality and non-profit.
 </p>
 
-- 👩🏻‍💻 I’m currently working on: a case scenario tool with Gemini API.  
-- 📚 I'm currently reading: 'Eloquent JavaScript' & 'Give & Take'
+[- 👩🏻‍💻 I’m currently working on: a case scenario tool with Gemini API.  ]:#
+- 📚 I'm currently reading: 'Eloquent JavaScript' & 'Tomorrow, and Tomorrow, and Tomorrow'
 
 #### Tech tools
 ###### Frontend
