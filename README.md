@@ -6,7 +6,7 @@ Previously accountant in hospitality and non-profit.
 </p>
 
 [- 👩🏻‍💻 I’m currently working on: a case scenario tool with Gemini API.  ]:#
-- 📚 I'm currently reading: 'Impact Players' & 'Sweet Bean Paste'
+- 📚 I'm currently reading: 'Impact Players' & 'Remarkably Bright Creatures'
 
 #### Tech tools
 ###### Frontend
